@@ -8,7 +8,6 @@ import Contact from "./Components/Contact";
 
 let App = () =>{
 
-
     return <div>
         <Router>
             <Navbar/>
