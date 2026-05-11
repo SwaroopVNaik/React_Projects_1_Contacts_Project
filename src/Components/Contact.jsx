@@ -1,9 +1,10 @@
 import React from "react";
+import ContactApp from "../Contact_App/Contact_App";
 
 let Contact = () => {
 
     return <div>
-        <h1>Contact Component</h1>
+        <ContactApp />
     </div>
 }
 
